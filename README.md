@@ -49,4 +49,4 @@ I am a FiveM & NodeJS Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaZiN1&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaZiN1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
